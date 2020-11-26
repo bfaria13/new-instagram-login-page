@@ -138,12 +138,12 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/app-store.png');
+    background-image: url('../img/app-store.png');
     border-radius: 15%;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/google-play.png');
+    background-image: url('../img/google-play.png');
     border-radius: 15%; 
 }
 
